@@ -1,0 +1,1 @@
+int timestwo(int val){ return 2*val; }
