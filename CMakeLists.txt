@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.14...${CMAKE_VERSION})
 project(DemoExt LANGUAGES Fortran)
 
 add_library(timestwo STATIC times_two.f90)
