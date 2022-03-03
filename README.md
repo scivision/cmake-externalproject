@@ -1,4 +1,4 @@
-# CMake ExternalProject Demos
+# CMake ExternalProject Demo
 
 This repo demos CMake ExternalProject.
 The top-level directory is simply used by our
